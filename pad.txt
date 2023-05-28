@@ -1,0 +1,8 @@
+[                ] [ lasers          ]
+[ build white    ] [ drop pulse      ]
+[ build color    ] [ drop tribeam    ]
+[ low+move       ] [ break solid/strobe ]
+[ low            ] [ break spot      ]
+[ blue           ] [ rgb             ]
+[ red            ] [ green           ]
+[ beat0          ] [ beat1           ]
